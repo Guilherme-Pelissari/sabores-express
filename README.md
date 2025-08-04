@@ -16,8 +16,8 @@ Este é um sistema de gerenciamento de restaurantes que oferece uma interface am
 
 ## 🛠️ Tecnologias Usadas
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![OS](https://img.shields.io/badge/OS-Standard%20Library-green?logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Standard%20Library-4CAF50?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
